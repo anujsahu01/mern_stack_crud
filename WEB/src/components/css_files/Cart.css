@@ -1,0 +1,42 @@
+.underline-heading {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .underline-heading::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 3px;
+    background-color: #007bff;
+    bottom: 0;
+    border-radius: 10px;
+  }
+  
+  .empty-cart {
+    margin-top: 50px;
+  }
+  
+  .empty-cart-img {
+    width: 100px;
+    opacity: 0.6;
+  }
+  
+  .cart-card {
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+  }
+  
+  .cart-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+    height: 250px;
+  }
+  

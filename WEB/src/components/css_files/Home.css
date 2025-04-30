@@ -1,0 +1,43 @@
+
+
+
+/* Main container */
+.slider-container {
+    height: 70vh;
+    width: 100%;
+  }
+  
+  /* Scrolling track */
+  .slider-track {
+    width: max-content;
+    animation: slideImages 40s linear infinite;
+    display: flex;
+  }
+  
+  /* Pause on hover handled via JS */
+  
+  /* Each image */
+  .slider-image {
+    width: 100vw;
+    height: 70vh;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  
+  /* Text overlay - Left aligned */
+  .text-overlay {
+    z-index: 2;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+  }
+  
+  
+  /* Animation */
+  @keyframes slideImages {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  

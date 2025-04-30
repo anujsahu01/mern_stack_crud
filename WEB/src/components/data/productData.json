@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "price": "₹1326",
+    "views": "1748 views",
+    "discount": "45% OFF",
+    "image": "./images/image01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "price": "₹1255",
+    "views": "4729 views",
+    "discount": "26% OFF",
+    "image": "./images/image02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "price": "₹2605",
+    "views": "2839 views",
+    "discount": "78% OFF",
+    "image": "./images/image03.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Product 4",
+    "price": "₹2768",
+    "views": "3505 views",
+    "discount": "52% OFF",
+    "image": "./images/image04.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Product 5",
+    "price": "₹1989",
+    "views": "4758 views",
+    "discount": "19% OFF",
+    "image": "./images/image05.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Product 6",
+    "price": "₹2440",
+    "views": "4415 views",
+    "discount": "64% OFF",
+    "image": "./images/image06.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Product 7",
+    "price": "₹1010",
+    "views": "3482 views",
+    "discount": "38% OFF",
+    "image": "./images/image07.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Product 8",
+    "price": "₹1444",
+    "views": "4733 views",
+    "discount": "71% OFF",
+    "image": "./images/image08.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Product 9",
+    "price": "₹2723",
+    "views": "2172 views",
+    "discount": "33% OFF",
+    "image": "./images/image09.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Product 10",
+    "price": "₹1524",
+    "views": "1535 views",
+    "discount": "22% OFF",
+    "image": "./images/image10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Product 11",
+    "price": "₹1787",
+    "views": "2775 views",
+    "discount": "15% OFF",
+    "image": "./images/image11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Product 12",
+    "price": "₹2122",
+    "views": "3644 views",
+    "discount": "69% OFF",
+    "image": "./images/image12.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Product 13",
+    "price": "₹1764",
+    "views": "4914 views",
+    "discount": "48% OFF",
+    "image": "./images/image13.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Product 14",
+    "price": "₹2527",
+    "views": "3691 views",
+    "discount": "41% OFF",
+    "image": "./images/image14.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Product 15",
+    "price": "₹1912",
+    "views": "2985 views",
+    "discount": "11% OFF",
+    "image": "./images/image15.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Product 16",
+    "price": "₹1367",
+    "views": "3298 views",
+    "discount": "25% OFF",
+    "image": "./images/image16.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Product 17",
+    "price": "₹1649",
+    "views": "3065 views",
+    "discount": "77% OFF",
+    "image": "./images/image17.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Product 18",
+    "price": "₹2081",
+    "views": "3073 views",
+    "discount": "55% OFF",
+    "image": "./images/image18.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Product 19",
+    "price": "₹2153",
+    "views": "4412 views",
+    "discount": "36% OFF",
+    "image": "./images/image19.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Product 20",
+    "price": "₹1691",
+    "views": "1423 views",
+    "discount": "62% OFF",
+    "image": "./images/image20.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Product 21",
+    "price": "₹1159",
+    "views": "1582 views",
+    "discount": "29% OFF",
+    "image": "images/items29.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Product 22",
+    "price": "₹1246",
+    "views": "3357 views",
+    "discount": "74% OFF",
+    "image": "images/items02.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Product 23",
+    "price": "₹1364",
+    "views": "2660 views",
+    "discount": "35% OFF",
+    "image": "images/items03.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Product 24",
+    "price": "₹1365",
+    "views": "2392 views",
+    "discount": "18% OFF",
+    "image": "images/items04.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Product 25",
+    "price": "₹1302",
+    "views": "1263 views",
+    "discount": "13% OFF",
+    "image": "images/items05.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Product 26",
+    "price": "₹1862",
+    "views": "1728 views",
+    "discount": "80% OFF",
+    "image": "images/items06.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Product 27",
+    "price": "₹2132",
+    "views": "3541 views",
+    "discount": "58% OFF",
+    "image": "images/items07.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Product 28",
+    "price": "₹2313",
+    "views": "1656 views",
+    "discount": "44% OFF",
+    "image": "images/items08.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Product 29",
+    "price": "₹2614",
+    "views": "3831 views",
+    "discount": "70% OFF",
+    "image": "images/items09.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Product 30",
+    "price": "₹2485",
+    "views": "3977 views",
+    "discount": "61% OFF",
+    "image": "images/items10.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Product 31",
+    "price": "₹1692",
+    "views": "1637 views",
+    "discount": "12% OFF",
+    "image": "images/items11.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Product 32",
+    "price": "₹1286",
+    "views": "2451 views",
+    "discount": "39% OFF",
+    "image": "images/items12.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Product 33",
+    "price": "₹2897",
+    "views": "1981 views",
+    "discount": "67% OFF",
+    "image": "images/items20.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Product 34",
+    "price": "₹2598",
+    "views": "4671 views",
+    "discount": "21% OFF",
+    "image": "images/items17.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Product 35",
+    "price": "₹2168",
+    "views": "4298 views",
+    "discount": "43% OFF",
+    "image": "images/items16.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Product 36",
+    "price": "₹2264",
+    "views": "1731 views",
+    "discount": "31% OFF",
+    "image": "images/items15.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Product 37",
+    "price": "₹1298",
+    "views": "2663 views",
+    "discount": "16% OFF",
+    "image": "images/items14.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Product 38",
+    "price": "₹1220",
+    "views": "4491 views",
+    "discount": "56% OFF",
+    "image": "images/items13.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Product 39",
+    "price": "₹2096",
+    "views": "2182 views",
+    "discount": "17% OFF",
+    "image": "images/items01.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Product 40",
+    "price": "₹1439",
+    "views": "4995 views",
+    "discount": "50% OFF",
+    "image": "images/items19.jpg"
+  }
+]
